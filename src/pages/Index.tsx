@@ -13,7 +13,7 @@ const portfolioItems = [
     title: 'Свадебная съёмка',
     category: 'Свадьбы',
     type: 'Фото',
-    image: 'https://cdn.poehali.dev/projects/46a83956-210c-4cba-8107-6ad109b8364f/files/61f6d734-0cad-44b0-b001-91300ab5b0e8.jpg'
+    image: 'https://cdn.poehali.dev/files/kGOHCC0OwgDXQAq3R5A2Uw-A7mTrUg4qLYqwhHQH-OxF325qtlDoWw_ThjiKsUtJMjVKdU_kr1Wq_xYdzLqJ3knz.jpg'
   },
   {
     id: 2,
